@@ -8,6 +8,7 @@ Our Agent can perform following actions:
 - Respond to common customer queries(e.g., order status, return policy)
 - Acces and retrieve user data from a database
 - Perform simple opearions like viewing order status, updating customer informations.
+  
 Boundaries:
 
 - The agent should not execute actions that require human judgment, such as processing refunds or handling escalations.
